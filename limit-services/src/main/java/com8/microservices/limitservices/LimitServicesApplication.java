@@ -9,5 +9,4 @@ public class LimitServicesApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(LimitServicesApplication.class, args);
 	}
-
 }
