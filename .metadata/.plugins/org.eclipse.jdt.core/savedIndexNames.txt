@@ -6,7 +6,6 @@ INDEX VERSION 1.134+/Users/ruby/Documents/spring/.metadata/.plugins/org.eclipse.
 1608245068.index
 3648350275.index
 2680990257.index
-599296795.index
 1598172559.index
 4259976027.index
 2933747837.index
